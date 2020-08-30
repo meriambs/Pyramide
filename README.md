@@ -6,6 +6,9 @@ At first you will choose a number indicating the number of lines of the pyramid 
 a full positive number, less than 25.
 
 # Development:
+
+If u dont want to try the webpage, you only have to clic on this [link ](https://meriambs.github.io/Pyramide) .
+If you are more interested in knowing the code and maybe add new things you can clone it using those steps :
 1- Under the repository name, click Clone or download.
 
 2- In the Clone with HTTPs section, click  to copy the clone URL for the repository. 
